@@ -1,0 +1,4 @@
+from os import system
+system("cls")
+memóriakezelés minden ifó változójában eltárolva
+tipusfüggetlen, dinamikus memóriakezelés
