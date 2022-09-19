@@ -8,3 +8,5 @@ használt beépített tipusok:
 -float
 -list
 -bool
+explicit tipuskomverzió
+én magam írom be a kódba a tipusváltoztatást

@@ -1,3 +1,7 @@
+from os import system
+system("cls")
+
+
 # int - típus
 elsoValtozo = 12
 print(type(elsoValtozo))
