@@ -2,3 +2,9 @@ from os import system
 system("cls")
 memóriakezelés minden ifó változójában eltárolva
 tipusfüggetlen, dinamikus memóriakezelés
+használt beépített tipusok:
+-str
+-int
+-float
+-list
+-bool
